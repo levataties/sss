@@ -1,2 +1,1 @@
-pene = 3
-print(type(pene))
+chupame la polla con salsita en verduritas
